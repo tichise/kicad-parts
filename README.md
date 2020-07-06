@@ -1,1 +1,1 @@
-# KiCad
+KiCadで利用するパブリックなFootprintsとSymbolsを管理するリポジトリ
